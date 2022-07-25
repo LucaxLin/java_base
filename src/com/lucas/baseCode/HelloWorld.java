@@ -2,7 +2,7 @@ package com.lucas.baseCode;
 
 public class HelloWorld {
     public static void main(String[] args) {
-//        print hello world
-        System.out.println("Hello world!");
+        System.out.println("Hello world!你好世界");
+        
     }
 }
