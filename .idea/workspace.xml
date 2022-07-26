@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89ab0f73-b4fa-4bfa-9673-0d52146e6195" name="Changes" comment="update gitignore">
-      <change afterPath="$PROJECT_DIR$/src/com/lucas/baseCode/Logic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/lucas/baseCode/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lucas/baseCode/HelloWorld.java" afterDir="false" />
     </list>
@@ -76,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658745426809</updated>
       <workItem from="1658745430358" duration="140000" />
-      <workItem from="1658747114710" duration="3985000" />
+      <workItem from="1658747114710" duration="4767000" />
     </task>
     <task id="LOCAL-00001" summary="update gitignore">
       <created>1658746315311</created>
